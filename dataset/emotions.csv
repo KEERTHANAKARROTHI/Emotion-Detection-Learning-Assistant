@@ -1,0 +1,601 @@
+text,emotion
+"I solved the cell biology problem easily, I feel capable and sure of myself.",Confident
+"I feel so bored studying linear algebra, nothing seems interesting.",Bored
+"I don't understand SQL joins at all, I'm completely confused.",Confused
+"I'm eager to dive deeper into object oriented programming, it seems interesting.",Curious
+"I keep zoning out during organic chemistry, it's just not engaging.",Bored
+"I don't understand thermodynamics at all, I'm completely confused.",Confused
+I wonder how organic chemistry applies to real world problems.,Curious
+"organic chemistry class has become so dull, I can barely stay awake.",Bored
+I'm really curious about how algorithms actually works under the hood.,Curious
+"I finally understand data structures completely, I feel really confident now.",Confident
+"neural networks class has become so dull, I can barely stay awake.",Bored
+Studying data structures today just feels tedious and uninteresting.,Bored
+I keep making mistakes in python loops and it's so frustrating.,Frustrated
+"I feel great about thermodynamics, everything makes sense to me.",Confident
+database design used to be hard but now I feel very comfortable with it.,Confident
+"I'm tired of SQL joins, it feels repetitive and dull.",Bored
+"I feel great about economics, everything makes sense to me.",Confident
+"This linear algebra lecture is so boring, I can't focus at all.",Bored
+Can someone explain machine learning? I'm really puzzled by it.,Confused
+"I finally understand linear algebra completely, I feel really confident now.",Confident
+I wonder how algorithms applies to real world problems.,Curious
+"I feel so bored studying thermodynamics, nothing seems interesting.",Bored
+"I'm eager to dive deeper into recursion, it seems interesting.",Curious
+"This neural networks assignment is driving me crazy, I want to give up.",Frustrated
+"This cell biology lecture is so boring, I can't focus at all.",Bored
+"This economics lecture is so boring, I can't focus at all.",Bored
+"I finally understand algorithms completely, I feel really confident now.",Confident
+"I've got grammar rules down, I'm sure I can solve any problem now.",Confident
+"I solved the statistics problem easily, I feel capable and sure of myself.",Confident
+"grammar rules class has become so dull, I can barely stay awake.",Bored
+economics is so hard that I just want to throw my laptop.,Frustrated
+"I'm eager to dive deeper into neural networks, it seems interesting.",Curious
+"I hate how difficult organic chemistry is, I'm getting really frustrated.",Frustrated
+I keep making mistakes in web development and it's so frustrating.,Frustrated
+"I'm so frustrated with database design, nothing I try works.",Frustrated
+I understand calculus well enough to explain it to someone else.,Confident
+"I keep zoning out during cell biology, it's just not engaging.",Bored
+Studying SQL joins today just feels tedious and uninteresting.,Bored
+"I finally understand algorithms completely, I feel really confident now.",Confident
+I keep thinking about data structures and want to understand it deeply.,Curious
+"Honestly probability is putting me to sleep, it's just monotonous.",Bored
+I understand linear algebra well enough to explain it to someone else.,Confident
+Can someone explain web development? I'm really puzzled by it.,Confused
+Can someone explain calculus? I'm really puzzled by it.,Confused
+I'm stuck on physics mechanics and don't know where to even start.,Confused
+"statistics class has become so dull, I can barely stay awake.",Bored
+Studying data structures today just feels tedious and uninteresting.,Bored
+I keep making mistakes in thermodynamics and it's so frustrating.,Frustrated
+"I'm eager to dive deeper into thermodynamics, it seems interesting.",Curious
+I wonder how recursion applies to real world problems.,Curious
+"I feel so bored studying grammar rules, nothing seems interesting.",Bored
+"I keep zoning out during calculus, it's just not engaging.",Bored
+"I'm so frustrated with physics mechanics, nothing I try works.",Frustrated
+I'm really curious about how grammar rules actually works under the hood.,Curious
+probability used to be hard but now I feel very comfortable with it.,Confident
+"I've got SQL joins down, I'm sure I can solve any problem now.",Confident
+"I solved the SQL joins problem easily, I feel capable and sure of myself.",Confident
+I re-read the web development chapter three times and I'm still confused.,Confused
+"I'm eager to dive deeper into economics, it seems interesting.",Curious
+"I finally understand python loops completely, I feel really confident now.",Confident
+Why is grammar rules so hard? I'm about to lose my patience.,Frustrated
+"This algorithms topic is intriguing, I want to learn more about it.",Curious
+I wonder how database design applies to real world problems.,Curious
+"I hate how difficult organic chemistry is, I'm getting really frustrated.",Frustrated
+"I hate how difficult economics is, I'm getting really frustrated.",Frustrated
+"I feel great about thermodynamics, everything makes sense to me.",Confident
+I'm stuck on neural networks and don't know where to even start.,Confused
+I'm stuck on organic chemistry and don't know where to even start.,Confused
+"machine learning class has become so dull, I can barely stay awake.",Bored
+"I'm tired of recursion, it feels repetitive and dull.",Bored
+"I hate how difficult neural networks is, I'm getting really frustrated.",Frustrated
+I'm confident I can ace the web development exam after this practice.,Confident
+"I feel great about algorithms, everything makes sense to me.",Confident
+"This thermodynamics lecture is so boring, I can't focus at all.",Bored
+"statistics class has become so dull, I can barely stay awake.",Bored
+"SQL joins class has become so dull, I can barely stay awake.",Bored
+"I finally understand organic chemistry completely, I feel really confident now.",Confident
+probability used to be hard but now I feel very comfortable with it.,Confident
+"I've got thermodynamics down, I'm sure I can solve any problem now.",Confident
+I keep making mistakes in database design and it's so frustrating.,Frustrated
+"I hate how difficult linear algebra is, I'm getting really frustrated.",Frustrated
+"I feel so bored studying python loops, nothing seems interesting.",Bored
+"I've tried everything for algorithms and I'm still stuck, it's so annoying.",Frustrated
+I'm stuck on neural networks and don't know where to even start.,Confused
+"I'm so frustrated with web development, nothing I try works.",Frustrated
+Why is SQL joins so hard? I'm about to lose my patience.,Frustrated
+"I feel so bored studying web development, nothing seems interesting.",Bored
+I keep making mistakes in calculus and it's so frustrating.,Frustrated
+I'm really curious about how organic chemistry actually works under the hood.,Curious
+"I'm so lost on algorithms, none of it makes sense to me.",Confused
+"I've got database design down, I'm sure I can solve any problem now.",Confident
+"I've got web development down, I'm sure I can solve any problem now.",Confident
+I'm stuck on recursion and don't know where to even start.,Confused
+"I feel so bored studying statistics, nothing seems interesting.",Bored
+"I'm so frustrated with economics, nothing I try works.",Frustrated
+I re-read the cell biology chapter three times and I'm still confused.,Confused
+"I've got cell biology down, I'm sure I can solve any problem now.",Confident
+I'm stuck on probability and don't know where to even start.,Confused
+"This linear algebra assignment is driving me crazy, I want to give up.",Frustrated
+calculus used to be hard but now I feel very comfortable with it.,Confident
+"This object oriented programming topic is intriguing, I want to learn more about it.",Curious
+I'm stuck on algorithms and don't know where to even start.,Confused
+"I've tried everything for cell biology and I'm still stuck, it's so annoying.",Frustrated
+I re-read the database design chapter three times and I'm still confused.,Confused
+"I'm so frustrated with object oriented programming, nothing I try works.",Frustrated
+I understand data structures well enough to explain it to someone else.,Confident
+"I keep zoning out during database design, it's just not engaging.",Bored
+I keep making mistakes in thermodynamics and it's so frustrating.,Frustrated
+"I'm so frustrated with data structures, nothing I try works.",Frustrated
+"I feel great about neural networks, everything makes sense to me.",Confident
+"I keep zoning out during linear algebra, it's just not engaging.",Bored
+Can someone explain database design? I'm really puzzled by it.,Confused
+Why is SQL joins so hard? I'm about to lose my patience.,Frustrated
+What happens if we apply database design differently? I'm curious to find out.,Curious
+Studying neural networks today just feels tedious and uninteresting.,Bored
+"This cell biology lecture is so boring, I can't focus at all.",Bored
+I keep thinking about python loops and want to understand it deeply.,Curious
+"neural networks class has become so dull, I can barely stay awake.",Bored
+Can someone explain algorithms? I'm really puzzled by it.,Confused
+I'm stuck on physics mechanics and don't know where to even start.,Confused
+"data structures concepts are unclear to me, I feel totally lost.",Confused
+"I've got SQL joins down, I'm sure I can solve any problem now.",Confident
+"I solved the object oriented programming problem easily, I feel capable and sure of myself.",Confident
+"physics mechanics concepts are unclear to me, I feel totally lost.",Confused
+"Honestly recursion is putting me to sleep, it's just monotonous.",Bored
+"I don't understand machine learning at all, I'm completely confused.",Confused
+"I've tried everything for thermodynamics and I'm still stuck, it's so annoying.",Frustrated
+"I've got SQL joins down, I'm sure I can solve any problem now.",Confident
+I understand SQL joins well enough to explain it to someone else.,Confident
+I wonder how SQL joins applies to real world problems.,Curious
+I understand algorithms well enough to explain it to someone else.,Confident
+I keep thinking about calculus and want to understand it deeply.,Curious
+"I'm eager to dive deeper into thermodynamics, it seems interesting.",Curious
+"I've got SQL joins down, I'm sure I can solve any problem now.",Confident
+I'm stuck on physics mechanics and don't know where to even start.,Confused
+"grammar rules sounds fascinating, I want to explore it further.",Curious
+I wonder how cell biology applies to real world problems.,Curious
+"I'm eager to dive deeper into neural networks, it seems interesting.",Curious
+"I finally understand calculus completely, I feel really confident now.",Confident
+recursion used to be hard but now I feel very comfortable with it.,Confident
+object oriented programming is so hard that I just want to throw my laptop.,Frustrated
+"thermodynamics concepts are unclear to me, I feel totally lost.",Confused
+Studying data structures today just feels tedious and uninteresting.,Bored
+"I finally understand statistics completely, I feel really confident now.",Confident
+I'm confident I can ace the machine learning exam after this practice.,Confident
+"Honestly thermodynamics is putting me to sleep, it's just monotonous.",Bored
+Studying thermodynamics today just feels tedious and uninteresting.,Bored
+"I feel great about data structures, everything makes sense to me.",Confident
+Studying thermodynamics today just feels tedious and uninteresting.,Bored
+"I feel so bored studying cell biology, nothing seems interesting.",Bored
+"I'm eager to dive deeper into recursion, it seems interesting.",Curious
+"I hate how difficult algorithms is, I'm getting really frustrated.",Frustrated
+I'm stuck on web development and don't know where to even start.,Confused
+"This recursion topic is intriguing, I want to learn more about it.",Curious
+What happens if we apply database design differently? I'm curious to find out.,Curious
+What happens if we apply database design differently? I'm curious to find out.,Curious
+"thermodynamics sounds fascinating, I want to explore it further.",Curious
+I'm confident I can ace the object oriented programming exam after this practice.,Confident
+I keep making mistakes in database design and it's so frustrating.,Frustrated
+I keep thinking about cell biology and want to understand it deeply.,Curious
+"I'm eager to dive deeper into linear algebra, it seems interesting.",Curious
+"I feel great about linear algebra, everything makes sense to me.",Confident
+Why is machine learning so hard? I'm about to lose my patience.,Frustrated
+"I'm so frustrated with organic chemistry, nothing I try works.",Frustrated
+I wonder how thermodynamics applies to real world problems.,Curious
+I'm stuck on statistics and don't know where to even start.,Confused
+"I have no idea how organic chemistry works, everything is a blur.",Confused
+"I feel so bored studying data structures, nothing seems interesting.",Bored
+I'm really curious about how algorithms actually works under the hood.,Curious
+"I've tried everything for probability and I'm still stuck, it's so annoying.",Frustrated
+"I'm tired of calculus, it feels repetitive and dull.",Bored
+Can someone explain economics? I'm really puzzled by it.,Confused
+"thermodynamics concepts are unclear to me, I feel totally lost.",Confused
+I'm confident I can ace the linear algebra exam after this practice.,Confident
+"I solved the object oriented programming problem easily, I feel capable and sure of myself.",Confident
+"I've got thermodynamics down, I'm sure I can solve any problem now.",Confident
+I keep making mistakes in physics mechanics and it's so frustrating.,Frustrated
+"statistics concepts are unclear to me, I feel totally lost.",Confused
+"I've got statistics down, I'm sure I can solve any problem now.",Confident
+object oriented programming is so hard that I just want to throw my laptop.,Frustrated
+I keep thinking about calculus and want to understand it deeply.,Curious
+probability is so hard that I just want to throw my laptop.,Frustrated
+"Honestly neural networks is putting me to sleep, it's just monotonous.",Bored
+"I've got algorithms down, I'm sure I can solve any problem now.",Confident
+"neural networks concepts are unclear to me, I feel totally lost.",Confused
+"I'm tired of organic chemistry, it feels repetitive and dull.",Bored
+"I'm so frustrated with statistics, nothing I try works.",Frustrated
+"I solved the database design problem easily, I feel capable and sure of myself.",Confident
+"I don't understand SQL joins at all, I'm completely confused.",Confused
+Can someone explain data structures? I'm really puzzled by it.,Confused
+Studying statistics today just feels tedious and uninteresting.,Bored
+cell biology is so hard that I just want to throw my laptop.,Frustrated
+"I hate how difficult object oriented programming is, I'm getting really frustrated.",Frustrated
+I'm stuck on organic chemistry and don't know where to even start.,Confused
+"thermodynamics concepts are unclear to me, I feel totally lost.",Confused
+"I have no idea how web development works, everything is a blur.",Confused
+I'm confident I can ace the recursion exam after this practice.,Confident
+Studying SQL joins today just feels tedious and uninteresting.,Bored
+"cell biology concepts are unclear to me, I feel totally lost.",Confused
+Can someone explain statistics? I'm really puzzled by it.,Confused
+I keep thinking about recursion and want to understand it deeply.,Curious
+"I finally understand python loops completely, I feel really confident now.",Confident
+I understand algorithms well enough to explain it to someone else.,Confident
+Studying probability today just feels tedious and uninteresting.,Bored
+"I've tried everything for machine learning and I'm still stuck, it's so annoying.",Frustrated
+"recursion concepts are unclear to me, I feel totally lost.",Confused
+"I finally understand python loops completely, I feel really confident now.",Confident
+What happens if we apply algorithms differently? I'm curious to find out.,Curious
+"thermodynamics sounds fascinating, I want to explore it further.",Curious
+"I have no idea how economics works, everything is a blur.",Confused
+Why is recursion so hard? I'm about to lose my patience.,Frustrated
+I re-read the machine learning chapter three times and I'm still confused.,Confused
+"I feel great about web development, everything makes sense to me.",Confident
+"I'm so lost on probability, none of it makes sense to me.",Confused
+database design used to be hard but now I feel very comfortable with it.,Confident
+"I solved the linear algebra problem easily, I feel capable and sure of myself.",Confident
+"I have no idea how algorithms works, everything is a blur.",Confused
+cell biology is so hard that I just want to throw my laptop.,Frustrated
+Can someone explain calculus? I'm really puzzled by it.,Confused
+"This cell biology assignment is driving me crazy, I want to give up.",Frustrated
+"I've got calculus down, I'm sure I can solve any problem now.",Confident
+"I'm tired of linear algebra, it feels repetitive and dull.",Bored
+"I hate how difficult neural networks is, I'm getting really frustrated.",Frustrated
+"organic chemistry sounds fascinating, I want to explore it further.",Curious
+What happens if we apply object oriented programming differently? I'm curious to find out.,Curious
+"probability concepts are unclear to me, I feel totally lost.",Confused
+"I finally understand economics completely, I feel really confident now.",Confident
+"I feel so bored studying grammar rules, nothing seems interesting.",Bored
+"I feel so bored studying calculus, nothing seems interesting.",Bored
+Studying database design today just feels tedious and uninteresting.,Bored
+"I've tried everything for neural networks and I'm still stuck, it's so annoying.",Frustrated
+I understand data structures well enough to explain it to someone else.,Confident
+Why is python loops so hard? I'm about to lose my patience.,Frustrated
+Why is machine learning so hard? I'm about to lose my patience.,Frustrated
+"calculus class has become so dull, I can barely stay awake.",Bored
+I'm really curious about how thermodynamics actually works under the hood.,Curious
+I re-read the economics chapter three times and I'm still confused.,Confused
+Why is database design so hard? I'm about to lose my patience.,Frustrated
+Studying python loops today just feels tedious and uninteresting.,Bored
+"I finally understand recursion completely, I feel really confident now.",Confident
+"probability class has become so dull, I can barely stay awake.",Bored
+Can someone explain object oriented programming? I'm really puzzled by it.,Confused
+"I don't understand cell biology at all, I'm completely confused.",Confused
+I re-read the statistics chapter three times and I'm still confused.,Confused
+"I've tried everything for statistics and I'm still stuck, it's so annoying.",Frustrated
+"I've tried everything for data structures and I'm still stuck, it's so annoying.",Frustrated
+"neural networks concepts are unclear to me, I feel totally lost.",Confused
+object oriented programming used to be hard but now I feel very comfortable with it.,Confident
+"I've tried everything for algorithms and I'm still stuck, it's so annoying.",Frustrated
+"I don't understand data structures at all, I'm completely confused.",Confused
+"I solved the neural networks problem easily, I feel capable and sure of myself.",Confident
+"I feel great about grammar rules, everything makes sense to me.",Confident
+"I have no idea how cell biology works, everything is a blur.",Confused
+I keep making mistakes in data structures and it's so frustrating.,Frustrated
+I re-read the neural networks chapter three times and I'm still confused.,Confused
+"I have no idea how data structures works, everything is a blur.",Confused
+I keep making mistakes in linear algebra and it's so frustrating.,Frustrated
+I understand grammar rules well enough to explain it to someone else.,Confident
+Can someone explain grammar rules? I'm really puzzled by it.,Confused
+I re-read the organic chemistry chapter three times and I'm still confused.,Confused
+I'm confident I can ace the database design exam after this practice.,Confident
+I keep thinking about linear algebra and want to understand it deeply.,Curious
+probability used to be hard but now I feel very comfortable with it.,Confident
+I keep making mistakes in economics and it's so frustrating.,Frustrated
+I keep making mistakes in web development and it's so frustrating.,Frustrated
+"This python loops lecture is so boring, I can't focus at all.",Bored
+I re-read the python loops chapter three times and I'm still confused.,Confused
+"I finally understand calculus completely, I feel really confident now.",Confident
+"I keep zoning out during SQL joins, it's just not engaging.",Bored
+Why is database design so hard? I'm about to lose my patience.,Frustrated
+SQL joins is so hard that I just want to throw my laptop.,Frustrated
+I'm stuck on probability and don't know where to even start.,Confused
+I keep thinking about database design and want to understand it deeply.,Curious
+"I solved the machine learning problem easily, I feel capable and sure of myself.",Confident
+"I've got statistics down, I'm sure I can solve any problem now.",Confident
+"I have no idea how python loops works, everything is a blur.",Confused
+"I've tried everything for recursion and I'm still stuck, it's so annoying.",Frustrated
+"This physics mechanics assignment is driving me crazy, I want to give up.",Frustrated
+I'm confident I can ace the recursion exam after this practice.,Confident
+"This probability assignment is driving me crazy, I want to give up.",Frustrated
+"I have no idea how object oriented programming works, everything is a blur.",Confused
+"Honestly grammar rules is putting me to sleep, it's just monotonous.",Bored
+"economics sounds fascinating, I want to explore it further.",Curious
+"I'm so lost on economics, none of it makes sense to me.",Confused
+machine learning used to be hard but now I feel very comfortable with it.,Confident
+What happens if we apply python loops differently? I'm curious to find out.,Curious
+Can someone explain cell biology? I'm really puzzled by it.,Confused
+"I hate how difficult grammar rules is, I'm getting really frustrated.",Frustrated
+"I feel great about object oriented programming, everything makes sense to me.",Confident
+"I have no idea how web development works, everything is a blur.",Confused
+"This SQL joins topic is intriguing, I want to learn more about it.",Curious
+Why is economics so hard? I'm about to lose my patience.,Frustrated
+"I'm so lost on statistics, none of it makes sense to me.",Confused
+algorithms used to be hard but now I feel very comfortable with it.,Confident
+python loops is so hard that I just want to throw my laptop.,Frustrated
+Studying linear algebra today just feels tedious and uninteresting.,Bored
+"This machine learning assignment is driving me crazy, I want to give up.",Frustrated
+I keep making mistakes in neural networks and it's so frustrating.,Frustrated
+"I feel so bored studying python loops, nothing seems interesting.",Bored
+database design used to be hard but now I feel very comfortable with it.,Confident
+"I finally understand probability completely, I feel really confident now.",Confident
+Can someone explain statistics? I'm really puzzled by it.,Confused
+"This database design topic is intriguing, I want to learn more about it.",Curious
+What happens if we apply python loops differently? I'm curious to find out.,Curious
+"I'm tired of cell biology, it feels repetitive and dull.",Bored
+"I'm tired of web development, it feels repetitive and dull.",Bored
+I wonder how database design applies to real world problems.,Curious
+"I'm eager to dive deeper into neural networks, it seems interesting.",Curious
+"This cell biology topic is intriguing, I want to learn more about it.",Curious
+"This calculus lecture is so boring, I can't focus at all.",Bored
+Studying recursion today just feels tedious and uninteresting.,Bored
+I'm really curious about how calculus actually works under the hood.,Curious
+"This SQL joins lecture is so boring, I can't focus at all.",Bored
+Can someone explain python loops? I'm really puzzled by it.,Confused
+Why is database design so hard? I'm about to lose my patience.,Frustrated
+organic chemistry used to be hard but now I feel very comfortable with it.,Confident
+"This thermodynamics topic is intriguing, I want to learn more about it.",Curious
+"I'm tired of probability, it feels repetitive and dull.",Bored
+"economics sounds fascinating, I want to explore it further.",Curious
+"I'm tired of thermodynamics, it feels repetitive and dull.",Bored
+I re-read the recursion chapter three times and I'm still confused.,Confused
+"This python loops lecture is so boring, I can't focus at all.",Bored
+"economics class has become so dull, I can barely stay awake.",Bored
+thermodynamics is so hard that I just want to throw my laptop.,Frustrated
+"I feel so bored studying machine learning, nothing seems interesting.",Bored
+"I've got object oriented programming down, I'm sure I can solve any problem now.",Confident
+I keep making mistakes in object oriented programming and it's so frustrating.,Frustrated
+cell biology is so hard that I just want to throw my laptop.,Frustrated
+"This object oriented programming lecture is so boring, I can't focus at all.",Bored
+"I don't understand physics mechanics at all, I'm completely confused.",Confused
+"I have no idea how SQL joins works, everything is a blur.",Confused
+"I have no idea how probability works, everything is a blur.",Confused
+"I keep zoning out during neural networks, it's just not engaging.",Bored
+What happens if we apply SQL joins differently? I'm curious to find out.,Curious
+"calculus sounds fascinating, I want to explore it further.",Curious
+"I'm tired of cell biology, it feels repetitive and dull.",Bored
+"This statistics topic is intriguing, I want to learn more about it.",Curious
+I'm confident I can ace the data structures exam after this practice.,Confident
+I keep thinking about cell biology and want to understand it deeply.,Curious
+Studying thermodynamics today just feels tedious and uninteresting.,Bored
+"I hate how difficult probability is, I'm getting really frustrated.",Frustrated
+I keep thinking about probability and want to understand it deeply.,Curious
+"I don't understand algorithms at all, I'm completely confused.",Confused
+What happens if we apply statistics differently? I'm curious to find out.,Curious
+"I'm eager to dive deeper into recursion, it seems interesting.",Curious
+I understand organic chemistry well enough to explain it to someone else.,Confident
+"I hate how difficult python loops is, I'm getting really frustrated.",Frustrated
+Why is cell biology so hard? I'm about to lose my patience.,Frustrated
+"I solved the python loops problem easily, I feel capable and sure of myself.",Confident
+"I'm tired of linear algebra, it feels repetitive and dull.",Bored
+"web development sounds fascinating, I want to explore it further.",Curious
+"I keep zoning out during algorithms, it's just not engaging.",Bored
+"I've got organic chemistry down, I'm sure I can solve any problem now.",Confident
+"I feel great about calculus, everything makes sense to me.",Confident
+"I have no idea how linear algebra works, everything is a blur.",Confused
+data structures is so hard that I just want to throw my laptop.,Frustrated
+"I feel so bored studying calculus, nothing seems interesting.",Bored
+"I don't understand machine learning at all, I'm completely confused.",Confused
+"I'm eager to dive deeper into probability, it seems interesting.",Curious
+"This neural networks lecture is so boring, I can't focus at all.",Bored
+"I'm so frustrated with web development, nothing I try works.",Frustrated
+"I've got web development down, I'm sure I can solve any problem now.",Confident
+"I've tried everything for object oriented programming and I'm still stuck, it's so annoying.",Frustrated
+"I'm so lost on physics mechanics, none of it makes sense to me.",Confused
+"I don't understand algorithms at all, I'm completely confused.",Confused
+thermodynamics used to be hard but now I feel very comfortable with it.,Confident
+I'm really curious about how algorithms actually works under the hood.,Curious
+"I finally understand object oriented programming completely, I feel really confident now.",Confident
+"algorithms class has become so dull, I can barely stay awake.",Bored
+I'm stuck on physics mechanics and don't know where to even start.,Confused
+"I finally understand statistics completely, I feel really confident now.",Confident
+I wonder how python loops applies to real world problems.,Curious
+I keep thinking about recursion and want to understand it deeply.,Curious
+Can someone explain object oriented programming? I'm really puzzled by it.,Confused
+"I hate how difficult object oriented programming is, I'm getting really frustrated.",Frustrated
+"statistics class has become so dull, I can barely stay awake.",Bored
+Studying SQL joins today just feels tedious and uninteresting.,Bored
+"I'm tired of physics mechanics, it feels repetitive and dull.",Bored
+"I keep zoning out during object oriented programming, it's just not engaging.",Bored
+"I finally understand algorithms completely, I feel really confident now.",Confident
+"I've tried everything for statistics and I'm still stuck, it's so annoying.",Frustrated
+I'm confident I can ace the SQL joins exam after this practice.,Confident
+"I'm so frustrated with python loops, nothing I try works.",Frustrated
+Why is calculus so hard? I'm about to lose my patience.,Frustrated
+"I hate how difficult statistics is, I'm getting really frustrated.",Frustrated
+"I keep zoning out during organic chemistry, it's just not engaging.",Bored
+"I'm so lost on neural networks, none of it makes sense to me.",Confused
+"This statistics lecture is so boring, I can't focus at all.",Bored
+"I have no idea how probability works, everything is a blur.",Confused
+What happens if we apply object oriented programming differently? I'm curious to find out.,Curious
+I re-read the statistics chapter three times and I'm still confused.,Confused
+"This database design topic is intriguing, I want to learn more about it.",Curious
+"I'm tired of python loops, it feels repetitive and dull.",Bored
+"I have no idea how database design works, everything is a blur.",Confused
+"I feel so bored studying organic chemistry, nothing seems interesting.",Bored
+I wonder how statistics applies to real world problems.,Curious
+"I feel so bored studying database design, nothing seems interesting.",Bored
+SQL joins used to be hard but now I feel very comfortable with it.,Confident
+"I have no idea how python loops works, everything is a blur.",Confused
+I understand object oriented programming well enough to explain it to someone else.,Confident
+"I don't understand recursion at all, I'm completely confused.",Confused
+"I solved the linear algebra problem easily, I feel capable and sure of myself.",Confident
+"I'm eager to dive deeper into SQL joins, it seems interesting.",Curious
+"I've tried everything for physics mechanics and I'm still stuck, it's so annoying.",Frustrated
+Can someone explain cell biology? I'm really puzzled by it.,Confused
+"I finally understand organic chemistry completely, I feel really confident now.",Confident
+calculus is so hard that I just want to throw my laptop.,Frustrated
+"I'm tired of grammar rules, it feels repetitive and dull.",Bored
+"algorithms concepts are unclear to me, I feel totally lost.",Confused
+"I finally understand physics mechanics completely, I feel really confident now.",Confident
+"This organic chemistry lecture is so boring, I can't focus at all.",Bored
+"I'm so frustrated with algorithms, nothing I try works.",Frustrated
+I'm really curious about how probability actually works under the hood.,Curious
+"I've tried everything for algorithms and I'm still stuck, it's so annoying.",Frustrated
+"This recursion topic is intriguing, I want to learn more about it.",Curious
+"I don't understand algorithms at all, I'm completely confused.",Confused
+"database design sounds fascinating, I want to explore it further.",Curious
+"I'm so frustrated with calculus, nothing I try works.",Frustrated
+"recursion concepts are unclear to me, I feel totally lost.",Confused
+I wonder how physics mechanics applies to real world problems.,Curious
+"I hate how difficult linear algebra is, I'm getting really frustrated.",Frustrated
+Studying python loops today just feels tedious and uninteresting.,Bored
+What happens if we apply database design differently? I'm curious to find out.,Curious
+Studying web development today just feels tedious and uninteresting.,Bored
+"I'm tired of grammar rules, it feels repetitive and dull.",Bored
+Why is physics mechanics so hard? I'm about to lose my patience.,Frustrated
+"I feel so bored studying python loops, nothing seems interesting.",Bored
+"This data structures topic is intriguing, I want to learn more about it.",Curious
+python loops used to be hard but now I feel very comfortable with it.,Confident
+I wonder how algorithms applies to real world problems.,Curious
+I wonder how grammar rules applies to real world problems.,Curious
+What happens if we apply probability differently? I'm curious to find out.,Curious
+I keep making mistakes in web development and it's so frustrating.,Frustrated
+"web development sounds fascinating, I want to explore it further.",Curious
+"I feel great about algorithms, everything makes sense to me.",Confident
+Studying linear algebra today just feels tedious and uninteresting.,Bored
+I wonder how recursion applies to real world problems.,Curious
+"I've got object oriented programming down, I'm sure I can solve any problem now.",Confident
+"I've tried everything for web development and I'm still stuck, it's so annoying.",Frustrated
+I keep making mistakes in machine learning and it's so frustrating.,Frustrated
+cell biology used to be hard but now I feel very comfortable with it.,Confident
+"neural networks concepts are unclear to me, I feel totally lost.",Confused
+I wonder how object oriented programming applies to real world problems.,Curious
+I wonder how neural networks applies to real world problems.,Curious
+"I'm so frustrated with thermodynamics, nothing I try works.",Frustrated
+"data structures class has become so dull, I can barely stay awake.",Bored
+"I feel great about machine learning, everything makes sense to me.",Confident
+"machine learning sounds fascinating, I want to explore it further.",Curious
+"I've got calculus down, I'm sure I can solve any problem now.",Confident
+"I hate how difficult neural networks is, I'm getting really frustrated.",Frustrated
+"I'm tired of SQL joins, it feels repetitive and dull.",Bored
+"linear algebra class has become so dull, I can barely stay awake.",Bored
+What happens if we apply object oriented programming differently? I'm curious to find out.,Curious
+"I finally understand web development completely, I feel really confident now.",Confident
+"I have no idea how python loops works, everything is a blur.",Confused
+"Honestly SQL joins is putting me to sleep, it's just monotonous.",Bored
+I understand calculus well enough to explain it to someone else.,Confident
+"This grammar rules topic is intriguing, I want to learn more about it.",Curious
+"I hate how difficult database design is, I'm getting really frustrated.",Frustrated
+"This organic chemistry lecture is so boring, I can't focus at all.",Bored
+I'm stuck on web development and don't know where to even start.,Confused
+I wonder how data structures applies to real world problems.,Curious
+"This linear algebra assignment is driving me crazy, I want to give up.",Frustrated
+"calculus class has become so dull, I can barely stay awake.",Bored
+I re-read the probability chapter three times and I'm still confused.,Confused
+"I've tried everything for web development and I'm still stuck, it's so annoying.",Frustrated
+I keep thinking about SQL joins and want to understand it deeply.,Curious
+"I'm so lost on grammar rules, none of it makes sense to me.",Confused
+"This object oriented programming assignment is driving me crazy, I want to give up.",Frustrated
+I wonder how cell biology applies to real world problems.,Curious
+"This statistics topic is intriguing, I want to learn more about it.",Curious
+I keep thinking about grammar rules and want to understand it deeply.,Curious
+Can someone explain database design? I'm really puzzled by it.,Confused
+I understand algorithms well enough to explain it to someone else.,Confident
+"I have no idea how web development works, everything is a blur.",Confused
+"This organic chemistry lecture is so boring, I can't focus at all.",Bored
+"I hate how difficult web development is, I'm getting really frustrated.",Frustrated
+"I feel so bored studying python loops, nothing seems interesting.",Bored
+"I've got statistics down, I'm sure I can solve any problem now.",Confident
+What happens if we apply machine learning differently? I'm curious to find out.,Curious
+"I hate how difficult web development is, I'm getting really frustrated.",Frustrated
+"This organic chemistry lecture is so boring, I can't focus at all.",Bored
+I wonder how web development applies to real world problems.,Curious
+I'm really curious about how neural networks actually works under the hood.,Curious
+data structures is so hard that I just want to throw my laptop.,Frustrated
+Why is algorithms so hard? I'm about to lose my patience.,Frustrated
+I'm really curious about how thermodynamics actually works under the hood.,Curious
+"This statistics topic is intriguing, I want to learn more about it.",Curious
+"I'm so lost on SQL joins, none of it makes sense to me.",Confused
+"I hate how difficult neural networks is, I'm getting really frustrated.",Frustrated
+"I have no idea how algorithms works, everything is a blur.",Confused
+What happens if we apply object oriented programming differently? I'm curious to find out.,Curious
+"I keep zoning out during web development, it's just not engaging.",Bored
+"I'm eager to dive deeper into machine learning, it seems interesting.",Curious
+I keep thinking about economics and want to understand it deeply.,Curious
+I re-read the object oriented programming chapter three times and I'm still confused.,Confused
+"physics mechanics sounds fascinating, I want to explore it further.",Curious
+Can someone explain thermodynamics? I'm really puzzled by it.,Confused
+"I keep zoning out during object oriented programming, it's just not engaging.",Bored
+I'm confident I can ace the machine learning exam after this practice.,Confident
+"I solved the object oriented programming problem easily, I feel capable and sure of myself.",Confident
+"machine learning concepts are unclear to me, I feel totally lost.",Confused
+What happens if we apply physics mechanics differently? I'm curious to find out.,Curious
+"This python loops assignment is driving me crazy, I want to give up.",Frustrated
+"I feel so bored studying object oriented programming, nothing seems interesting.",Bored
+machine learning is so hard that I just want to throw my laptop.,Frustrated
+"data structures concepts are unclear to me, I feel totally lost.",Confused
+"I've got physics mechanics down, I'm sure I can solve any problem now.",Confident
+Why is calculus so hard? I'm about to lose my patience.,Frustrated
+"I solved the neural networks problem easily, I feel capable and sure of myself.",Confident
+"organic chemistry concepts are unclear to me, I feel totally lost.",Confused
+"I've tried everything for object oriented programming and I'm still stuck, it's so annoying.",Frustrated
+"I don't understand thermodynamics at all, I'm completely confused.",Confused
+"I'm tired of grammar rules, it feels repetitive and dull.",Bored
+Why is economics so hard? I'm about to lose my patience.,Frustrated
+What happens if we apply physics mechanics differently? I'm curious to find out.,Curious
+"I've got SQL joins down, I'm sure I can solve any problem now.",Confident
+"I have no idea how linear algebra works, everything is a blur.",Confused
+"This economics assignment is driving me crazy, I want to give up.",Frustrated
+I'm stuck on calculus and don't know where to even start.,Confused
+I'm really curious about how python loops actually works under the hood.,Curious
+"I'm so frustrated with recursion, nothing I try works.",Frustrated
+"I don't understand database design at all, I'm completely confused.",Confused
+I wonder how python loops applies to real world problems.,Curious
+"I keep zoning out during linear algebra, it's just not engaging.",Bored
+"I finally understand cell biology completely, I feel really confident now.",Confident
+"This SQL joins assignment is driving me crazy, I want to give up.",Frustrated
+"calculus sounds fascinating, I want to explore it further.",Curious
+Studying economics today just feels tedious and uninteresting.,Bored
+I re-read the linear algebra chapter three times and I'm still confused.,Confused
+What happens if we apply machine learning differently? I'm curious to find out.,Curious
+Can someone explain economics? I'm really puzzled by it.,Confused
+I'm really curious about how recursion actually works under the hood.,Curious
+I understand python loops well enough to explain it to someone else.,Confident
+"I solved the object oriented programming problem easily, I feel capable and sure of myself.",Confident
+"I'm so frustrated with python loops, nothing I try works.",Frustrated
+"I don't understand recursion at all, I'm completely confused.",Confused
+"I'm eager to dive deeper into recursion, it seems interesting.",Curious
+"I'm tired of data structures, it feels repetitive and dull.",Bored
+"I feel great about SQL joins, everything makes sense to me.",Confident
+economics used to be hard but now I feel very comfortable with it.,Confident
+I'm confident I can ace the statistics exam after this practice.,Confident
+I wonder how web development applies to real world problems.,Curious
+I keep making mistakes in linear algebra and it's so frustrating.,Frustrated
+"I have no idea how SQL joins works, everything is a blur.",Confused
+"I've got algorithms down, I'm sure I can solve any problem now.",Confident
+I'm really curious about how neural networks actually works under the hood.,Curious
+"This linear algebra topic is intriguing, I want to learn more about it.",Curious
+I wonder how physics mechanics applies to real world problems.,Curious
+"I'm so lost on python loops, none of it makes sense to me.",Confused
+"I feel so bored studying SQL joins, nothing seems interesting.",Bored
+"I don't understand SQL joins at all, I'm completely confused.",Confused
+"I keep zoning out during object oriented programming, it's just not engaging.",Bored
+"economics class has become so dull, I can barely stay awake.",Bored
+Can someone explain physics mechanics? I'm really puzzled by it.,Confused
+"I finally understand economics completely, I feel really confident now.",Confident
+I wonder how linear algebra applies to real world problems.,Curious
+organic chemistry is so hard that I just want to throw my laptop.,Frustrated
+"object oriented programming class has become so dull, I can barely stay awake.",Bored
+I wonder how cell biology applies to real world problems.,Curious
+"Honestly database design is putting me to sleep, it's just monotonous.",Bored
+"I've got data structures down, I'm sure I can solve any problem now.",Confident
+"economics concepts are unclear to me, I feel totally lost.",Confused
+Can someone explain calculus? I'm really puzzled by it.,Confused
+Studying organic chemistry today just feels tedious and uninteresting.,Bored
+"linear algebra class has become so dull, I can barely stay awake.",Bored
+recursion is so hard that I just want to throw my laptop.,Frustrated
+"I've tried everything for organic chemistry and I'm still stuck, it's so annoying.",Frustrated
+"database design concepts are unclear to me, I feel totally lost.",Confused
+I keep thinking about data structures and want to understand it deeply.,Curious
+I keep making mistakes in database design and it's so frustrating.,Frustrated
+"I don't understand physics mechanics at all, I'm completely confused.",Confused
+"I keep zoning out during SQL joins, it's just not engaging.",Bored
+I keep thinking about database design and want to understand it deeply.,Curious
+"I have no idea how cell biology works, everything is a blur.",Confused
+"linear algebra concepts are unclear to me, I feel totally lost.",Confused
+"I'm so frustrated with cell biology, nothing I try works.",Frustrated
+"I keep zoning out during object oriented programming, it's just not engaging.",Bored
+"I solved the database design problem easily, I feel capable and sure of myself.",Confident
+I keep thinking about python loops and want to understand it deeply.,Curious
+I understand recursion well enough to explain it to someone else.,Confident
+"data structures class has become so dull, I can barely stay awake.",Bored
+"SQL joins sounds fascinating, I want to explore it further.",Curious
+Why is algorithms so hard? I'm about to lose my patience.,Frustrated
+"I've tried everything for probability and I'm still stuck, it's so annoying.",Frustrated
+What happens if we apply web development differently? I'm curious to find out.,Curious
+"I feel so bored studying database design, nothing seems interesting.",Bored
+"I'm so lost on algorithms, none of it makes sense to me.",Confused
+I keep making mistakes in machine learning and it's so frustrating.,Frustrated
+"I've got linear algebra down, I'm sure I can solve any problem now.",Confident
+"I'm tired of SQL joins, it feels repetitive and dull.",Bored
+"I've tried everything for neural networks and I'm still stuck, it's so annoying.",Frustrated
+I understand web development well enough to explain it to someone else.,Confident
+I'm really curious about how cell biology actually works under the hood.,Curious
+I wonder how linear algebra applies to real world problems.,Curious
+"I've tried everything for organic chemistry and I'm still stuck, it's so annoying.",Frustrated
+Can someone explain SQL joins? I'm really puzzled by it.,Confused
+Studying python loops today just feels tedious and uninteresting.,Bored
+I keep thinking about organic chemistry and want to understand it deeply.,Curious
+I understand linear algebra well enough to explain it to someone else.,Confident
